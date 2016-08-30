@@ -18,7 +18,7 @@ comentario de varias lineas
 #se crea el objeto
   obj=Comentarios.new()
 
-#llamamos el el metodo mediante el obj
+#llamamos el metodo mediante el obj
   obj.Saludo()
 
 
